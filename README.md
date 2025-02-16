@@ -7,17 +7,17 @@
 
 ---
 
-# 🔥 Abhishek Singh | Tech Enthusiast 🚀
+# 🔥 Ashish Kumar Singh | Tech Enthusiast 🚀
 ## Vellore Institute of Technology, Chennai             2021-2026
-## M.tech Integrated in Software Engineering
-Flutter | Android | Web | AI/ML | Data Structures and Algorithms  
+## B.tech Computer Science and Engineering
+React | Java | Web Development | Data Structures and Algorithms  
 
 ---
 
 ## 👨‍💻 About Me  
 💡 Passionate about exploring new technologies and building cool stuff!  
 📍 Based in Chennai, India  
-📬 Reach me at [abhi11.sbsm@gmail.com](mailto:abhi11.sbsm@gmail.com)  
+📬 Reach me at [as8239613@gmail.com](mailto:as8239613@gmail.com)  
 🧠 Currently diving deep into AI, ML, DL & NLP  
 🤝 Open to collaborations on software & IoT projects  
 ⚡ Looking for job referrals (Help a dev out! 😉)  
