@@ -56,7 +56,7 @@ Flutter | Android | Web | AI/ML | Data Structures and Algorithms
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-7-singh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-singh-1112&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-7-singh&theme=radical" height="165" />
 </p> 
 
