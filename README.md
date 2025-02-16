@@ -1,14 +1,110 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashish Kumar Singh
-==========================================================================================================================================
+<!-- Background Image -->
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1IrxSaNFTAy_LcBPFbYv32nH3lViv0AHb" 
+       alt="Banner" 
+       style="width:100%; height:250px; object-fit:cover;" />
+</div>
 
-Web/Cloud
----------
+---
 
-* 🌍  I'm based in CHENNAI
+# 🔥 Abhishek Singh | Tech Enthusiast 🚀
+## Vellore Institute of Technology, Chennai             2021-2026
+## M.tech Integrated in Software Engineering
+Flutter | Android | Web | AI/ML | Data Structures and Algorithms  
 
-### Skills
+---
 
+## 👨‍💻 About Me  
+💡 Passionate about exploring new technologies and building cool stuff!  
+📍 Based in Chennai, India  
+📬 Reach me at [abhi11.sbsm@gmail.com](mailto:abhi11.sbsm@gmail.com)  
+🧠 Currently diving deep into AI, ML, DL & NLP  
+🤝 Open to collaborations on software & IoT projects  
+⚡ Looking for job referrals (Help a dev out! 😉)  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+---
+
+## 🚀 Tech Stack  
+
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,flask,docker,linux,git,arduino" />
+</div>  
+
+---
+
+## 📚 Projects  
+
+### 🌿 IoT-Based Smart Farming System  
+🔹 Built a Flutter app for real-time farm monitoring using DHT11, Soil Moisture sensors, and ESP32  
+🔹 Integrated Firebase for data storage and analytics  
+
+### 🛒 E-commerce Price Comparison  
+🔹 Developed a web scraping system using BeautifulSoup & Selenium  
+🔹 Compared prices from multiple online retailers  
+
+### 🚦 Smart Traffic Signal Control Using Game Theory & Deep Learning  
+🔹 Designed an AI-powered traffic control system for dynamic signal adjustments  
+🔹 Used SUMO simulation and deep learning models  
+
+### 🌍 Earthquake Prediction & Visualization  
+🔹 Created an AI model to predict earthquakes using seismic data from USGS API  
+🔹 Enhanced insights with interactive Power BI dashboards  
+
+---
+
+## 📈 Data Insights  
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-7-singh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-7-singh&theme=radical" height="165" />
+</p> 
+
+### 🌡 Heatmap Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-7-singh&theme=tokyo-night" />
+</p>
+
+### 📈 Top Languages Used  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-7-singh&layout=compact&theme=tokyonight" />
+</p>   
+
+---
+
+## 🏆 Achievements  
+  
+🏆 Competitive Coding: Solving ** Problems** on Leetcode & Codeforces  
+🎓 VIT Chennai: Pursuing MTech Integrated (BTech + MTech)  
+
+---
+
+## 🛠 Tools & IDEs  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,figma" />
+</div>
+
+---
+
+## 🎯 Goals for 2025  
+
+✔ Expand knowledge in AI-powered IoT solutions  
+✔ Contribute to open-source & tech blogs  
+✔ Build a startup idea around smart automation  
+
+---
+
+## 🌎 Let's Connect!  
+
+<p align="center">
+  <a href="https://github.com/abhishek-7-singh">
+    <img src="https://img.shields.io/github/followers/abhishek-7-singh?logo=github&style=for-the-badge&color=00FFFF" />
+  </a>  
+  <a href="https://linkedin.com/in/abhishek-singh-052b24220">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=00FFFF" />
+  </a>  
+  <a href="https://x.com/Abhishek_28_9">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&color=00FFFF" />
+  </a>  
 </p>
